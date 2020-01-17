@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="utf-16"?>
+<AntispamBlacklistSettings2
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<AuditDataUserLogin>srv_antispam_1\Administrator</AuditDataUserLogin>
+	<Items>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>bf7df03c-c45c-402b-b711-6eb475f420cb</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@tibia-avn.loan</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>4cbc8546-7507-45a6-af59-b16842e7401f</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>olga@hotlins.com.ua</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>52e8807f-1f73-4548-9f5b-3894e2e206f3</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>usb@ikonst.com.ua</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>d40046fc-aa0b-4a15-b9cd-2a30d4ed4c52</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@com.ua</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>1f046dc7-9d83-4cf5-b314-fd645cc83b1c</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@mail.kz</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>8b68406e-b8d3-4255-9353-85ab51502ed9</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>mailman-bounces@promotiongambling.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>64762e8f-2757-4907-b585-1a08dee1b3ac</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>bopchik99@yandex.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>6f554e81-eb5d-45fd-a6d4-3148e2f23700</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@gfposta.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>d18b6018-c4d6-4df6-a4d8-d844afd30103</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@linkedin.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>45824c49-ac35-4827-891a-8ce54ef07335</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>roils.club24@gmail.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>2fbc7372-18fe-4e10-bbb3-e8df6066e820</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@ceramic-polymer.de</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>ec0d7752-4ba8-4473-b84e-7325869a0268</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>oliver.davison@vg-energy.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>0d0da2bb-62c8-48cb-b057-4935760aa94b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>vbk-kraska@unibk.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>2acecb1b-7efd-4e96-8139-96406a184412</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@jimail.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>a14fd206-c5d9-4f6b-9a3c-459ebe7bcee5</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@mailpn.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>0a49fa8c-ce55-4418-8375-8daa722ac832</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@kimail.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>74a4c466-4564-4128-81f0-4c092c987d41</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@llmaill.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>de55e687-6ae0-41a5-a958-e6dee895b9f5</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@uimail.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>008bb3d3-d92d-4ad5-9599-2f2fc59a6e87</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>radakin_na@mail.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>a615616a-3216-48bf-80c9-8fbcb09d5bf3</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@sailmail.net</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>4444d953-d8c6-4b7a-9fdb-f6af038c22b3</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@nissetpool.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>8f6c6d1a-eea0-42d8-b214-3463b03d6df1</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@desna-tlt.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>4a543485-1b8b-4a8c-a22e-c514af5ffde2</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@babyeleto.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>29d36161-6ab3-4725-9bfc-71e39a872740</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@training-online.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>f6aa2245-ab5a-4441-9251-b30c899b6e68</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@*.com.br</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>1f645d21-c691-49bf-87f6-0eee3b12044f</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>namma5416087@subscribe.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>5b74ec1b-d62a-4fe8-a5c0-f8a0fc6e177b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@subscribe.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>3778c840-d889-4bd7-80d2-04b3a0928f0e</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@epoch.jp</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>30b0867e-3e7b-40cd-8ccf-fcbd0eea847c</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@mcdservice.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>d545120f-9cc0-44ea-8e1b-cd79b540b231</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@roverusa.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>54ac8331-291f-4779-912c-f875e8f26f50</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@docsvision.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>a8621022-2c84-4d2c-bf1b-4d9f23dd6db3</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@kama-pv.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>9a94bd08-6546-47a0-88b0-bb4b0cd83461</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@kynto.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>dc4118ba-9bab-4bbb-a7a9-c3b1edc90cde</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>collectornikolay@gmail.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>9ad3ea5f-e254-4ab7-b8ea-f9807f7b0bb3</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@innovativewaste.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>e0d04837-1266-463f-bd9f-a96be53097a1</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@jatzke-hartchrom.de</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>94ea62e7-1a77-4a9f-ade7-018985a7ddef</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@colexo.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>f987ffd2-fbf4-4425-baaf-13f3df9db5b2</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@o3tech.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>3ac4e274-d999-4955-a506-54ca412d879b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@agotour.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>98f54a4a-28ce-483e-b4b8-17dc4ea55923</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@fotoban.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>9544e455-48b1-48f0-b879-bfc13dfe6f43</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@tex-to.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>b4322ef4-9558-4195-8703-55d629449056</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@a-zeon.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>e3f92257-9b9b-496a-b229-36635363a221</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@s3000.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>bf0a21e5-2626-42c3-a2d3-fa49412010c4</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@coprinta.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>6ba012f2-7c73-4b72-aa71-227cf7bd7168</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@vrnout.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>1477cc78-c5d9-4786-917b-3d64ab964aad</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>oxotnisa@rambler.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>0fd5045a-ca94-44e3-b75a-d34de279b60a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@job-99.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>3139bae4-d3af-4208-8a2a-e98eb1cfd17d</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@dengimart.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>45013548-dcc3-4053-bf29-6207e0151f21</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@ms-technology.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>082fdbaa-7fe3-4143-8832-24258fa22aab</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@shop-seller.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>de52ec84-9958-4e87-9621-de8570162c2b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@botfpark.net</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>312f0af1-d242-45a2-8331-13e995fc10f7</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@maillist.voicecards.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>36446d1b-a03c-4da4-9ea6-f69f2e8056da</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@phoenix.webware.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>53c982e7-6618-4772-acde-cad59600937b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@lobcam.info</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>8206601d-acc0-4cfa-8083-68e158bb4a48</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@mlesq.info</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>b31b7824-82f7-4568-a303-36ae2e2bd3b0</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@news.cenergy.eu</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>a85ccec3-5af2-42e5-8890-0ac65c943603</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@hicfol.info</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>c29f9025-c758-42c9-9611-4bbfb3db167e</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@metlie.us</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>526df9bb-4fd6-41d4-ad62-785643f42ce6</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@kickitupla.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>39038cc8-a08c-4273-97a5-52b0bb31b46c</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@kurvenocu.info</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>aacc3860-90e3-4311-95fd-eab54fb1e889</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@gqshuhua.info</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>8e1833b0-6098-41dd-ae2f-d479cb6f6870</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@daofengzd.info</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>f8951d60-3b71-4788-aaa8-20c5b46dc2a4</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@edensplay.info</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>5b3facea-e4a0-4883-ac77-87064e33a3a3</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@rmgrecords.bid</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>d0b96772-cac4-4787-aa12-6c4f8ae33f11</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@atrakciony.bid</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>5448d9a1-f5ec-41bf-909c-49fc233b5c5d</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@project-si.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>f004da5f-b5cc-44fc-bbe1-e4c15622a479</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@marketion.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>c80bee0d-e17d-4cd2-b99b-d82fd85ce93f</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@*.faith</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>ed86821b-1ddd-4acc-a96a-3ecddfa77f45</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@vvt2.net</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>cc4c4863-1f2b-41f1-a167-82599948dc9d</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@mumfir.date</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>c25243ae-1c74-4ab5-85fa-9fca51a6a09b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@mail.subscribe.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>f1652be4-c335-4873-a21d-62acb9d53ae8</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@ilium-to.date</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>92ef6a90-b0ee-4c18-9a80-3a1eb3955b58</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@ola-print.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>bdd968c7-7698-4d43-b66f-63235524c050</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@designland.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>c2b6ef91-c88c-4ee4-ba88-897e56655fc5</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@gff-rf.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>d8f34831-c0e6-48cc-bc0e-8a7d10e18ba1</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@ultrasonic-time.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>7a551c30-ae2a-4c63-8552-13c103b7ff84</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>osk5002344@mail.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>0d35e58b-7cad-431e-835b-9b24ac53986e</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@fpt.vn</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>ec18e837-d031-487f-bc64-a2cce3c5b0a5</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@cbdesigns.nl</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>0cfc5597-5fb9-4fc5-abdd-11d0da4da17a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@aviso.ci</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>66393977-afe7-4767-a564-f43ec731458a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@glitterandgritpgh.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>8fa5015b-7a71-4863-9ab8-c40267c30936</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@loansystem.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>274d9aa6-aeb0-4e4c-aff9-cb2a1835ca91</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@michaeljcummings.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>c8ec27ba-a03b-42cd-b18d-cd8c14168bd2</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@crviadelaplata.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>7bf76625-a8cd-4108-9e90-6f254b3b8ed3</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@email.belmond.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>603908b1-79ef-4e42-a8ed-b550dc0c6d22</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@vodafone.nl</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>cad7ffc0-ab96-4b63-8004-820672909b5a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>deloproizvodstvo@kmk-nv.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>f7da6ecb-bf11-426c-a51a-76f573270c6d</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@ukr.net</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>960a7d32-5a0a-49c9-91b1-28dc8b54b392</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@cariepaden.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>a5344e75-aa60-434f-950f-31d6290b7f56</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@imnotfactorymade.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>1b518dcd-7090-49db-a811-8483dea3abb3</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>malibu.ugansk@mail.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>c29d2df4-7308-4949-b5c0-418a390469cd</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@rn-yuganskneftegaz.com</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>d1a666d8-045f-4821-9661-cfad1d9d6d2e</Id>
+			<ItemType>IpAddress</ItemType>
+			<ItemValue>213.158.162.134</ItemValue>
+			<ModificationDateTimeUtc>2018-04-06T05:58:55.2884904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>Унаследовано от предыдущей версии</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>b20cac80-ec10-47e6-927c-c8d019222550</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@dadvargroup.com</ItemValue>
+			<ModificationDateTimeUtc>2018-06-01T06:53:15.6827336Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>897c20a9-f914-4731-aa44-60a71c9c8398</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>aleksandr_muravskiy@mail.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-06-14T09:45:59.1867416Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>bcff9760-cc92-4460-bc8d-341a897e8736</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>po4e4niy.grig@yandex.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-07-06T06:19:05.6242095Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>650c965d-230f-468e-81cc-a0877a9a3b2a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@gvt.net.br</ItemValue>
+			<ModificationDateTimeUtc>2018-09-28T09:23:57.059811Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>797d8f81-fe6f-4763-8c95-769cb9d3e485</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@unimurr.de</ItemValue>
+			<ModificationDateTimeUtc>2018-10-11T09:27:01.3147584Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>7e15909d-c9bf-46b8-92f9-e9f4ee98bad7</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@tonik-recordings.com</ItemValue>
+			<ModificationDateTimeUtc>2018-10-15T04:21:00.2336809Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>Адрес добавлен по заявке #NR_40340</Comment>
+			<Id>3baa2e68-009c-4627-8d64-80e305d029a5</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@sterkh.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-10-19T03:54:24.3110122Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>Адрес добавлен по заявке #NR_40340</Comment>
+			<Id>d2146844-8b4a-47a3-9992-1e3c0b9ed28d</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@tgeos.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-10-19T03:55:22.9345537Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>bbcd1cc3-133d-40cc-bd2b-ea4bac80e21b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@rocky-egg.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-29T12:32:59.7277915Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>130bf671-7c58-45e2-9005-b86e94839441</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@pregl-aircooler.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-29T12:34:19.213545Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>d58bf709-b547-4007-bbd4-cb85c329d3a9</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@ednomore-lin.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-29T12:34:56.2265845Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>0d7a0ba7-4929-469c-a069-ee101a6099bf</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@mina-amah.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:13:47.397286Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>ce3750d9-1d39-4d87-bc2b-ec3e3aaa3daf</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@keto-lwm.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:14:13.4238123Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>107ae378-fcbc-4b1f-bc94-daccfcf4df0f</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@canon-pot.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:14:24.8174648Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>2956bde6-0d13-4f76-95d9-f40477967bc6</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@angle-rcp.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:14:34.9469424Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>2d3c858f-af72-4055-8c06-8b56aba5de5a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@lues-ruhr.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:30:31.8329097Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>8146c044-9ca2-46a5-acba-0716aac5ca87</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@owen-boma.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:30:31.8329097Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>107№GT-ad-16be-4432-9676-e285449f9c87</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@best-drug.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:30:31.8329097Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>c31fe46d-231a-4385-baeb-74e361e933b0</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@lang-nett.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:30:31.8329097Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>68aca32e-005b-4f8f-8ee3-39b4462af5c7</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@gadi-hond.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:30:31.8329097Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>df201a3b-9c86-4ef6-bbac-31cbbf87c01c</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@fern-cana.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:30:31.8329097Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>3e6c88c0-c1f1-4f41-95c8-854ce8427700</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@snib-samp.info</ItemValue>
+			<ModificationDateTimeUtc>2018-10-30T04:30:31.8329097Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>4f977e25-41e0-482b-8076-f279f3915f89</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@guerrillamail.com</ItemValue>
+			<ModificationDateTimeUtc>2018-11-01T05:23:48.6398774Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>1f6f908f-6328-408a-a91d-f407c57987ad</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@pyicnutohm.info</ItemValue>
+			<ModificationDateTimeUtc>2018-11-02T06:10:40.336187Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>fdc9cf16-4bb7-4619-b526-aba4f9b6d6e8</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@cragsymorc.info</ItemValue>
+			<ModificationDateTimeUtc>2018-11-02T06:10:40.336187Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>5ca0e840-86a4-4b22-8a3f-95ed7c8db089</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@eldolevgin.info</ItemValue>
+			<ModificationDateTimeUtc>2018-11-02T06:10:40.336187Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>da63e8d4-06d9-4658-a4a2-159b24e6a8e1</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@carlgymgta.info</ItemValue>
+			<ModificationDateTimeUtc>2018-11-02T06:10:40.336187Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>be1f2c5a-5315-4288-b2ea-fa01289a2400</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@agmakktyam.info</ItemValue>
+			<ModificationDateTimeUtc>2018-11-02T06:10:40.336187Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>c663bdaf-2dad-48af-89c9-1505ca0be118</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@weptwe.info</ItemValue>
+			<ModificationDateTimeUtc>2018-11-08T04:45:08.9621659Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>dc66fab3-ef79-4c98-8d1c-79fe9f68917e</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@wildberries.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-11-14T07:25:11.8559644Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>e6107b4c-601c-4a38-9bda-d115882b3774</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@foutsfoto.info</ItemValue>
+			<ModificationDateTimeUtc>2018-11-16T10:59:15.910997Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>001c0e3c-764c-41c0-a50a-361f6aed69f5</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@dengimigom.ru</ItemValue>
+			<ModificationDateTimeUtc>2018-12-27T09:54:44.7551Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>81d66126-61a6-45a0-aad6-69655729cf0c</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@mjobs.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-01-30T04:29:48.1360812Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>f4ecd4c0-9582-49e1-b63c-4bdd9a7cefc4</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@cabletel.com.mk</ItemValue>
+			<ModificationDateTimeUtc>2019-02-26T05:44:12.6423533Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>По заявке №YH-28222</Comment>
+			<Id>b5f97bc4-1a5f-466c-aace-b53734157c67</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>rndzdrav14@aaanet.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-03-06T10:35:09.0227488Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>579e6766-7ad8-463d-a046-4547c0c7b544</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>Somanath.Mahakuda@Weatherford.com</ItemValue>
+			<ModificationDateTimeUtc>2019-05-31T09:58:18.0367141Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>bcbf65ca-a3ef-472c-88c1-05b84bf54b8d</Id>
+			<ItemType>IpAddress</ItemType>
+			<ItemValue>52.100.133.101</ItemValue>
+			<ModificationDateTimeUtc>2019-05-31T09:58:33.5688269Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>secureserver@servers.com</Comment>
+			<Id>d3ed9951-1a96-43a0-bf64-736e84e4382f</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@servers.com</ItemValue>
+			<ModificationDateTimeUtc>2019-06-11T03:34:29.9325185Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>secureserver@servers.com</Comment>
+			<Id>8876f8aa-48cf-4ec1-b081-86463afd32a5</Id>
+			<ItemType>IpAddress</ItemType>
+			<ItemValue>185.82.209.9</ItemValue>
+			<ModificationDateTimeUtc>2019-06-11T03:34:45.8593153Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>https://kellyasera.org</Comment>
+			<Id>cfc973a4-4f1c-46ce-95e4-27abfb672175</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*kellyasera.org</ItemValue>
+			<ModificationDateTimeUtc>2019-06-11T03:36:17.3159857Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>https://kellyasera.org</Comment>
+			<Id>df750005-3dce-47ff-a31c-7b215b5f3461</Id>
+			<ItemType>IpAddress</ItemType>
+			<ItemValue>147.135.209.120</ItemValue>
+			<ModificationDateTimeUtc>2019-06-11T03:36:43.5964267Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>87cee5fb-82dc-46bb-bfa9-94efa51a24e3</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>verify rosneft@yungjsc.com</ItemValue>
+			<ModificationDateTimeUtc>2019-06-11T03:38:37.0679516Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>64f1f81e-ea43-42c1-b938-a396337c3334</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@otbab.se</ItemValue>
+			<ModificationDateTimeUtc>2019-07-24T06:38:26.2159539Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>8666c159-4fb4-4cbf-8107-c46440ec8adc</Id>
+			<ItemType>IpAddress</ItemType>
+			<ItemValue>46.16.234.106</ItemValue>
+			<ModificationDateTimeUtc>2019-07-24T06:38:55.5900929Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>По заявке №FH-19312</Comment>
+			<Id>a06b18f5-4662-463c-ba95-dbe57581798e</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@lists.anekdot.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-08-06T07:08:11.7737781Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>Anekdot.ru</Comment>
+			<Id>29dc0e9f-414f-4068-b9a8-16f6b99c9b67</Id>
+			<ItemType>IpAddress</ItemType>
+			<ItemValue>195.54.213.252</ItemValue>
+			<ModificationDateTimeUtc>2019-08-06T07:10:01.7385202Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>По заявке №FH-19469</Comment>
+			<Id>9a365510-c70b-4e41-aa29-5db5290f8c6f</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@tiasur.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-08-06T09:07:20.6458988Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>tiasur.ru</Comment>
+			<Id>5076daae-26ea-4181-89f0-e1d165d2f201</Id>
+			<ItemType>IpAddress</ItemType>
+			<ItemValue>88.99.145.№GT-</ItemValue>
+			<ModificationDateTimeUtc>2019-08-06T09:08:12.2477346Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>244f3b83-b11d-4ca7-80c1-60941671df15</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@cuvox.de</ItemValue>
+			<ModificationDateTimeUtc>2019-08-21T05:42:03.2957223Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>33b8e6f2-6780-4aa6-9ca5-243e3cc9e278</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@outlook.com</ItemValue>
+			<ModificationDateTimeUtc>2019-09-18T06:28:35.5816762Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>39e22819-f7d4-4dbf-bc28-584c2d734373</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@medinioridginal.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-10-07T05:45:57.4432615Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>noreply@onships.ru</Comment>
+			<Id>2d661e9d-1a21-4ef8-b5f0-69e344a3c284</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@onships.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-10-07T05:46:25.3570141Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>faf39b59-a8c3-40a9-bd92-bdd84712e255</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@thermaltec.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-10-07T05:47:40.6015863Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>351f7ed5-fa0e-47f2-9ca6-b89d7e25568f</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@ofship.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-10-07T05:48:34.2670538Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>ca74b4c0-7366-4faf-b1c5-3d839a745049</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@claimrus.info</ItemValue>
+			<ModificationDateTimeUtc>2019-10-07T05:48:49.4699539Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>06396b38-204e-4b8c-9353-5d8b8c4d9e1a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@promosurvey5.info</ItemValue>
+			<ModificationDateTimeUtc>2019-10-07T05:49:06.9927376Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>3c8ffe03-bff0-4d86-9240-92c8061f09bf</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@all-money01.biz</ItemValue>
+			<ModificationDateTimeUtc>2019-10-07T05:49:23.9423305Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>6f3e94ac-0f0a-46ea-b9d1-c13e961642af</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@pay-ment1.org</ItemValue>
+			<ModificationDateTimeUtc>2019-10-07T05:49:39.266548Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>3e4b4214-65f8-46d1-a4cd-c8859c4f7324</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@arz-santehnika.ru </ItemValue>
+			<ModificationDateTimeUtc>2019-10-10T09:03:45.5157986Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\IvanovII</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>39f3f1ac-4e78-43e9-875f-6a6f5ba5db53</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@dibenedettogiuseppe.info</ItemValue>
+			<ModificationDateTimeUtc>2019-11-06T04:25:23.6906366Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>8eadf7d3-f05f-4941-8b61-c4eb21249095</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@spit.be </ItemValue>
+			<ModificationDateTimeUtc>2019-11-06T04:25:40.9766173Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>608d00e7-91dd-4ea8-b021-ac24a95b6fdc</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>officeub2@lilyjung.com</ItemValue>
+			<ModificationDateTimeUtc>2019-11-06T04:25:53.2053003Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>f9bce298-8cf0-4797-a149-ec932ba7813f</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@lilyjung.com</ItemValue>
+			<ModificationDateTimeUtc>2019-11-06T04:26:05.1899516Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>565fb5eb-0fce-4ac8-a037-1e0e3403e060</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>AsadullinRH@bodewitz.nl</ItemValue>
+			<ModificationDateTimeUtc>2019-11-06T06:28:30.6550774Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>156eda29-9ab0-4eb4-a332-13c99167c56f</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@bodewitz.nl</ItemValue>
+			<ModificationDateTimeUtc>2019-11-06T06:28:39.0601368Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-2539</Comment>
+			<Id>e109d3f3-3728-453e-b9cb-05daf3325c7c</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>AndrewWalker@konectivatelecomunicacoes.com.br</ItemValue>
+			<ModificationDateTimeUtc>2019-11-29T09:25:20.4792461Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-2539</Comment>
+			<Id>6778d6c6-207f-4356-a791-a784c237e2a8</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>DonaldThomas@Level3.net</ItemValue>
+			<ModificationDateTimeUtc>2019-11-29T09:25:48.8160252Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-2539</Comment>
+			<Id>d06b3f69-08f4-461f-b613-4208002abe08</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>PeterLewis@lombardiplants.it</ItemValue>
+			<ModificationDateTimeUtc>2019-11-29T09:26:03.7104904Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-2539</Comment>
+			<Id>1c2842b2-d424-481a-ac7a-bef5a18bf2c8</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>ThomasMoore@etb.net.co</ItemValue>
+			<ModificationDateTimeUtc>2019-11-29T09:26:19.0905879Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9050</Comment>
+			<Id>a158754e-ab00-4dd4-b9e9-be531b634250</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>vika_marchevskay@mail.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T04:15:26.6543805Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9050 </Comment>
+			<Id>4187c4e7-9003-43f5-87be-14af61c21a96</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>vika_marchevskay@mail.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:21:46.0092138Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>2c449b4c-aa5e-4729-81a6-018ebb4bca3d</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>aiegynvup@tel.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:23:01.3104348Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>1ccd0fbe-43a8-4798-9898-882623f2863b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>BrandonEllis@tradewindshoa.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:23:14.8677835Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>9977d908-68e7-4640-a542-14a2aa0ea4fc</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>BrettBarnes@tonga-soa.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:23:28.196655Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>47b92639-ffb3-4633-8fcc-b1d03311be8b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>EugeneTaylor@tinalimpa.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:23:43.7637954Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>d99f9e11-772d-4468-a2c8-71e9b63104cc</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>ligcxhuost@beats.hu</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:23:57.9514544Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>61e67628-b46d-450b-930b-b88f304b4524</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>RonaldFord@une.net.co</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:24:10.8311215Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>b5764747-bae6-4834-9bb7-d422e700218a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>web@itapteka.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:24:29.780969Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>3f3298d6-80bd-4084-a445-5266cd501954</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>postman238198@espmaillist.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:24:42.7248525Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>c92a3b8f-7be3-4a16-8abb-ca94d5e3b5bd</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>worldbusinessgroups@gmail.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:25:03.1899639Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9502</Comment>
+			<Id>4980816e-34ec-44a2-88bc-1aef12fbc06e</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>xvpwxbpee@tel.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:25:16.1017723Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GT-9444</Comment>
+			<Id>2e3cb609-2f0f-4aa1-9ddd-ee6e15fbba51</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>info@federal01.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-10T11:25:28.2146837Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-3563</Comment>
+			<Id>317867ec-6440-4577-92f4-7909beb8bd56</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>info@info-federal.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-17T05:39:31.3884011Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-6052</Comment>
+			<Id>15e624dd-7517-4bb0-acac-c687e71fa42b</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>GregoryJones@mastertelecom.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:36:04.5466788Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-6052</Comment>
+			<Id>7a7177cf-f4d5-4186-a702-ff513000e9f8</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>LouisCampbell@tomwalshcpa.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:36:19.3132513Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>MatthewJones@tomwalshcpa.com</Comment>
+			<Id>6399a7aa-33a1-4ff4-a1dc-e5685ef05e6a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>№GH-6052</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:36:54.0893541Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-6052</Comment>
+			<Id>d19df79d-d2cc-4f8d-8230-e57280ed94f7</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>otvod77@list.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:37:06.2980567Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-6052</Comment>
+			<Id>34fac3f4-2073-4cc5-9486-5e3be9f2a611</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>PeterLopez@tienaakotona.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:37:16.7878277Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-6052</Comment>
+			<Id>2c339ee1-cec4-42a5-8913-906701cd6705</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>TimothyReed@tmcpa.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:37:27.9409311Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-6052</Comment>
+			<Id>7ea22adf-3e49-40b1-8ef6-64efb7e0c377</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>unlisted@pochta.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:37:40.2167168Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-6052</Comment>
+			<Id>30d2944a-49c0-426b-b2b6-afeb46e16d15</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>veto@ua.fm</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:37:50.4503037Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-6052</Comment>
+			<Id>9b3fd114-972a-4f0b-9919-a9fd8b5e83e9</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>WalterShaw@azteca-comunicaciones.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:38:01.7473833Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№GH-6052</Comment>
+			<Id>06f6e016-8e4c-4356-ad3e-4ffa84ebb141</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>MatthewJones@tomwalshcpa.com</ItemValue>
+			<ModificationDateTimeUtc>2019-12-20T05:39:29.3372487Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>442ad880-d74f-421f-b262-3d23d4ac31f1</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@geksagon.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-30T09:07:59.7041672Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment />
+			<Id>92a5677e-7e8c-4ca9-911d-6aae8f5599e6</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>*@ambercrow.ru</ItemValue>
+			<ModificationDateTimeUtc>2019-12-30T09:08:10.91№GH-93Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>#NR_2306148 (№GH_16701)</Comment>
+			<Id>90725388-482b-43d6-81e8-62d2a5e833fe</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>mail@forumneftegaz.org</ItemValue>
+			<ModificationDateTimeUtc>2020-01-13T11:09:12.3999879Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>#NR_2313268 (№GH_17270)</Comment>
+			<Id>67f67e4c-5d87-4990-9cdb-98f8edbecab8</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>elenadecade@gmail.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-14T05:35:44.9733112Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>9fb75523-dc3a-41e6-a13e-c0aaf7615af1</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>abby@ladbible.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:27:58.666399Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>1e705ed6-d320-4ee9-af72-adbc623f3d91</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>andrew.yamaji@openadrawer.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:28:10.5258925Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>d07ba8d5-cc4d-4230-b574-8c59005e6ff2</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>AnthonyAnderson@rt.ru</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:28:21.4396834Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>9d12da39-5bcb-441e-9ef3-237715370f49</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>BenjaminStewart@tinamcmahancpa.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:28:32.709587Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>1376b0d9-22b4-4ffc-9455-3a78bf2d02cb</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>CharlesEvans@comcastbusiness.net</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:28:44.8001315Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>0dd3f3f9-9a4d-408c-9faf-6241b1787578</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>CharlesWright@tomnicholascpa.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:28:57.4944104Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>a73bc40d-46ba-405f-87d5-2d12d005dfc4</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>EdwardSmith@charter.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:29:12.2785579Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>9ae5dc27-cbfb-4804-9973-d955c9b8dba4</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>ErnestClark@kirzhachtelecom.ru</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:29:25.3831341Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>0d2aad3d-e23e-455e-8891-756a509925c0</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>GaryJones@toftnesscpa.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:29:35.9819832Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>a85220ec-5419-4622-9995-f75fd57dd452</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>GeorgeCarter@accesskenya.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:29:46.1024797Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>886e410f-64d2-4c00-b27e-025015718cae</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>GeraldNichols@tpfcpa.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:29:55.2310927Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>5a182001-f5d6-4f13-8471-ba9a7046№ПР_5</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>JamesThompson@ufanet.ru</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:30:05.7917557Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>dc7f0283-b0c9-4a7d-8af0-8da686af7e36</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>JasonRamirez@valenetshop.com.br</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:30:19.7040143Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>e3a4425d-ae38-423d-98ac-96ed668464bc</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>JeffreyGreen@tradefortuna.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:30:29.4071333Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>ada716a7-70fb-4a25-a073-5d13c7fdebac</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>livre@210.150.broadband14.iol.cz</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:30:42.4780744Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>bb90bffd-5b52-4d10-84c4-1c4e6764e541</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>MichaelTorres@shirazhamyar.ir</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:30:58.3353895Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>02d234ae-b821-47ac-81da-3e731adc1a71</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>music@makemedge.us</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:31:08.1029585Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>c7355634-7c9b-445b-b281-b0054128957e</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>news@itapteka.su</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:31:16.7515231Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>f0cbf352-7b00-4ccb-8878-95303733873a</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>RobertJones@tm-cpa.com</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:31:26.0338119Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>de07606e-7c21-40f6-b9e4-b93014ef0aae</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>RyanAnderson@klfree.cz</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:31:34.5524974Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+		<AntispamBlacklistItem>
+			<AuditDataUserLogin />
+			<Comment>№ПР_9131</Comment>
+			<Id>c134681b-26f8-4c0a-9632-ff280f1a6145</Id>
+			<ItemType>EmailAddress</ItemType>
+			<ItemValue>tiresome@meta.ua</ItemValue>
+			<ModificationDateTimeUtc>2020-01-16T09:31:56.4963364Z</ModificationDateTimeUtc>
+			<ModifiedByUser>srv_antispam_1\Administrator</ModifiedByUser>
+		</AntispamBlacklistItem>
+	</Items>
+</AntispamBlacklistSettings2>
