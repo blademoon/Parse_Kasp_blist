@@ -17,7 +17,7 @@
 <p align="center">
   <img width="800" height="474" src="https://github.com/blademoon/Parse_Kasp_blist/blob/master/img/Result_window.png">
 </p>
-<p align="center">*Пример окна Microsoft Excel с результатами работы скрипта*</p>
+<p align="center">Пример окна Microsoft Excel с результатами работы скрипта</p>
 
 5. ***Обязательно сохраните результаты обработки переданный в Microsft Excel в файл. Он не сохраняется автоматически.***
 
