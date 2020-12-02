@@ -14,3 +14,11 @@
 3. На запрос скрипта "Enter the path to the folder containing the files with the extension * .blist:" введите полный путь к каталогу содержащиму файлы с расширением "blist" и нажмите Enter. Далее запустится процесс обьработки файлов.
 4. Итоговый результат обработки вы увидите в отдельном окне Microsoft Excel.
 
+<p align="center">
+  <img width="500" height="313" src="https://github.com/blademoon/Coursera_Mathematics_and_Python_for_Data_Analysis/blob/main/Week%201/Lecture%201-5/Python%20operating%20modes.png">
+</p>
+*Пример окна Microsoft Excel с результатами работы скрипта*
+
+***Обязательно сохраните результаты обработки переданный в Microsft Excel в файл. Он не сохраняется автоматически.***
+
+
