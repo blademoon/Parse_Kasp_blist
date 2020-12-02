@@ -15,7 +15,7 @@
 4. Итоговый результат обработки вы увидите в отдельном окне Microsoft Excel.
 
 <p align="center">
-  <img width="500" height="313" src="https://github.com/blademoon/Coursera_Mathematics_and_Python_for_Data_Analysis/blob/main/Week%201/Lecture%201-5/Python%20operating%20modes.png">
+  <img width="800" height="474" src="https://github.com/blademoon/Parse_Kasp_blist/blob/master/img/Result_window.png">
 </p>
 *Пример окна Microsoft Excel с результатами работы скрипта*
 
