@@ -1,5 +1,5 @@
-# Parse_Kasp_blist
-Небольшой скрипт для парсинга черных списков "Kaspersky Security для Microsoft Exchange Servers".
+# Parse_Kasp_blist (дальнейшая разработка прекращена).
+Небольшой скрипт для парсинга черных списков "Kaspersky Security для Microsoft Exchange Servers" из файлов формата blist в Microsoft Excel. **Обрабатывает все файлы найденные в указанной папке.**
 
 # Минимальные требования
 1. Наличие установленного Microsoft Excel на ПК, на котором происходит обработка черных списков. Результатом работы скрипта будет открытое окно Microsoft Excel c обработанной информацией.
